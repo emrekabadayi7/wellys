@@ -1,8 +1,8 @@
 const config = {
   user: "sa",
-  password: "123",
-  server: "localhost",
-  database: "Wellys",
+  password: "Support1105",
+  server: "tcp:TOTAL-POS-TEST\\RMH",
+  database:"RMH",
   options: {
     trustedConnection: true,
     trustServerCertificate: true,
